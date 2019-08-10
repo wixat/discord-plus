@@ -363,7 +363,7 @@ foreignObject {
 	border-radius: var(--roundness) !important;
 }
 
-[viewBox="0 0 40 32"] {
+[viewBox="0 0 20 32"] {
 	background-size: cover;
 	height: 20px;
 	width: 20px;
