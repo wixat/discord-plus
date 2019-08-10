@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous');
 :root {
 	--background: url('https://i.imgur.com/3AiL3yN.png');
-	--accent-color: rgb(135,31,96);
+	--accent-color: rgb(10,10,10);
 	--font: 'Poppins';
 	--font-text: 'Roboto';
 	--font-header: 'Righteous';
@@ -375,8 +375,8 @@ foreignObject {
 
 .da-avatar [style="width: 20px; height: 20px;"] { /*large avatar*/
 	background-size: cover;
-	width: 62.5px !important;
-	height: 62.5px !important;
+	width: 32.5px !important;
+	height: 32.5px !important;
 	border-radius: var(--roundness);
 	margin: -10px -14px;
 }
@@ -396,8 +396,8 @@ foreignObject {
 
 .da-image, .da-avatarHint { border-radius: var(--roundness) }
 .listAvatar-1NlAhb .da-image {
-	height: 48px;
-	width: 48px;
+	height: 24px;
+	width: 24px;
 }
 
 /* Game icons */
